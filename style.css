@@ -26,3 +26,23 @@ p, h1 {
     font-family: smeshariki;
     color: #913D28
     }
+
+#wrapper {
+        max-width: 960px;
+        margin: auto;
+    }
+    header {
+        padding: 20px 0;
+    }
+bear {
+        display: inline-block;
+        padding: 0 10px;
+	        text-align: center;
+        
+    }
+honeyandbee {
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px;
+	margin: 30px 0 0 0;
+}
