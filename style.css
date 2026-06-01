@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFE7AF;
+    border-radius: 13px;
+}
+
+header {
+    background-color:  #FFE7AF;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.background {
+    border-radius: 13px;
+    background: #FFE7AF;
+       }
+
+@font-face {
+    font-family: smeshariki;
+    src: url(src/fonts/smeshariki2007fixed_regular.ttf);
+       }
+
+p, h1 {
+    font-family: smeshariki;
+    color: #913D28
+    }
+
+#wrapper {
+        max-width: 960px;
+        margin: auto;
+    }
+    header {
+        padding: 20px 0;
+    }
+bear {
+        display: inline-block;
+        padding: 0 10px;
+	        text-align: center;
+        
+    }
+honeyandbee {
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px;
+	margin: 30px 0 0 0;
+}
