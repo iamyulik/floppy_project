@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/iamyulik/floppy_project#readme",
   "devDependencies": {
-    "electron": "^34.0.2"
+    "electron": "^34.5.8"
   }
 }
